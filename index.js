@@ -17,12 +17,10 @@ for (let i = 0; i < x.length; i++) {
 
 function deepestChild() {
  var x = ('#grand-node');
- var z;
- var y;
   while (z!==null) {
-   y=document.querySelector('x');
+  var y=document.querySelector('x');
   (x = x+' div');
- z = document.querySelector('x');
+var z = document.querySelector('x');
  if (z===null){
   var p= y;return p;
  }
