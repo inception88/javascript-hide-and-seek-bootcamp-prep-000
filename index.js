@@ -25,6 +25,6 @@ function deepestChild() {
  z = document.querySelector('x');
  if (z!==null){
    return 1;
- }return y;
+ }return 1;
   }return y;
   }
