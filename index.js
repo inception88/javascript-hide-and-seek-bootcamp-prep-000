@@ -18,11 +18,11 @@ for (let i = 0; i < x.length; i++) {
 function deepestChild() {
  var x = ('#grand-node');
   while (z!==null) {
-  var y=document.querySelector('x');
+  var y=document.querySelector(x);
   (x = x+' div');
-var z = document.querySelector('x');
+var z = document.querySelector(x);
  if (z!==null){
   return x;
  }
-  }return document.querySelector('x');
+  }
   }
