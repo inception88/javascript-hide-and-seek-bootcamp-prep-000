@@ -16,10 +16,10 @@ for (let i = 0; i < x.length; i++) {
 }
 
 function deepestChild() {
- let x = ('#grand-node');
+ var x = ('#grand-node');
  var z;
  var y;
-  while (1) {
+  while (z!==null) {
    y=document.querySelector('x');
   (x = x+' div');
  z = document.querySelector('x');
