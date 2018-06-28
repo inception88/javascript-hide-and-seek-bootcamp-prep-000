@@ -17,7 +17,7 @@ for (let i = 0; i < x.length; i++) {
 
 function deepestChild() {
  let x = ('#grand-node');
- var z = 1;
+ var z;
  var y;
   while (1) {
    y=document.querySelector('x');
@@ -25,6 +25,6 @@ function deepestChild() {
  z = document.querySelector('x');
  if (z!==null){
    return y;
- }
-  }
+ }return y;
+  }return y;
   }
