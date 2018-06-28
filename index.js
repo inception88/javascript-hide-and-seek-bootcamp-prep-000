@@ -24,5 +24,5 @@ var z = document.querySelector('x');
  if (z!==null){
   return x;
  }
-  }return 1;
+  }return document.querySelector('x');
   }
