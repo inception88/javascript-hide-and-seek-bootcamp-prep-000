@@ -24,7 +24,7 @@ function deepestChild() {
   (x = x+' div');
  z = document.querySelector('x');
  if (z!==null){
-   return y;
+   return 1;
  }return y;
   }return y;
   }
